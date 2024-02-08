@@ -5,11 +5,11 @@
 </div>
 
 ## Chapter of Monitoring and Logging Tools
-- [Monitoring and Logging Tools]()
-- [Log Reader and Analysis]()
-- [Log Collection and Server]()
-- [Log Files]()
-- [Working with Texts]()
+- [**Chapter 1 Monitoring and Logging Tools**]()
+- [**Chapter 2 Log Reader and Analysis**]()
+- [**Chapter 3 Log Collection and Server**]()
+- [**Chapter 4 Log Files**]()
+- [**Chapter 5 Working with Texts**]()
 ## Overview
 &nbsp;&nbsp;&nbsp;&nbsp;เครื่องมือที่ใช้ในการตรวจสอบและบันทึกข้อมูลเกี่ยวกับระบบหรือแอปพลิเคชันที่ทำงานในสภาพแวดล้อม IT หรือเครือข่ายโดยเฉพาะเพื่อดูแลและจัดการปัญหาที่อาจเกิดขึ้นได้หลายๆ ครั้ง, Monitoring และ Logging ถูกใช้ร่วมกันเพื่อช่วยในการตรวจสอบปัญหาและวิเคราะห์การดำเนินการของระบบ นอกจากนี้เครื่องมือเหล่านี้ยังช่วยในการค้นหาปัญหา ปรับปรุงประสิทธิภาพและเพิ่มความมั่นคงของระบบ
 <br> &nbsp;&nbsp;&nbsp;&nbsp;**Monitoring** เครื่องมือตรวจสอบเป็นทั้งซอฟต์แวร์และฮาร์ดแวร์ที่ใช้ในการตรวจสอบ วัด รายงานสถานะและประสิทธิภาพของระบบคอมพิวเตอร์ เครือข่ายและแอปพลิเคชัน การตรวจสอบเป็นขั้นตอนสำคัญในการดูแลระบบ IT เพื่อป้องกันปัญหาที่อาจเกิดขึ้นและให้การแก้ไขที่รวดเร็วเมื่อเกิดปัญหา <br>
